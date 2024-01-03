@@ -1,5 +1,5 @@
 '''
-Name: Written by Marie Anne
+Name: Written by Marie Anne Xu in collaboration with Shubham Mohole
 Program Description: We create a window that has two buttons: play again and quit. Moreover, on the window we print
 the colored maze. When play again is pressed we create a new maze in a new window. When we press quit the windows close.
 '''
