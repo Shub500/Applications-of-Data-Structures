@@ -67,7 +67,7 @@ def TestDrive():
             n = input("How many random walks do you want to make? ")
             if int(n) >= 0:
                 startingVertex = input("What is the starting vertex? ")
-                print(randomWalk(int(n), startingVertex, "Lab07sample.py"))
+                print(randomWalk(int(n), startingVertex, "GraphAdjSample.py"))
             else:
                 print("Invalid Input")
                 TestDrive()
