@@ -4,7 +4,7 @@ def reverseQueue(queue):
 
     item = queue[head]
     queue.dequeue
-
+ 
     reverseQueue(queue)
 
     queue.enqueue(item)
