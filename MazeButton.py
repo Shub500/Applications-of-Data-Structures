@@ -1,5 +1,5 @@
 #
-# Name: Marie-Anne
+# Name: In collaboration with Marie-Anne-Xu
 #
 # Button: a Rectangle object with a Text object label displayed in a window;
 # made clickable/unclickable with activate() and deactivate(), respectively
