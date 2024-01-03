@@ -3,8 +3,6 @@
 Name: Shubham Mohole
 A min priority queue is implemented. Four functions have been created: a getter that gets the
 size of the heap, Min-Heapify, extract min, and get min which is a getter for the current min in the min queue.
-The solution for question 5 is also implemented, though in a different class, it uses a min priority queue
-to find the k largest elements.
 '''
 
 
