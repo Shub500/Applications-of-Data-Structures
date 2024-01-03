@@ -9,9 +9,9 @@ Then we do Dijkstra's just trying to the get the smallest day value. Exercise 4:
 the upper and lower bound as keep checking if a path exists. The check path uses DFS and keeps searching until target is reached
 and checks if we are still less than L. Returns true if it finds the target in the depth or False.
 '''
-from GraphAdjList import *
+from GraphAlgos.GraphAdjList import *
 import random
-from graphics import *
+from Games.graphics import *
 import math
 
 
